@@ -1,0 +1,13 @@
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.exe
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.deps.json
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.runtimeconfig.json
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.runtimeconfig.dev.json
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.dll
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\bin\Debug\netcoreapp3.1\FirstNetCoreApp.pdb
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.csprojAssemblyReference.cache
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.AssemblyInfoInputs.cache
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.AssemblyInfo.cs
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.csproj.CoreCompileInputs.cache
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.dll
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.pdb
+F:\Pradeep\LTTS\Genesis\DevOps\GitDemo\FirstNetCoreApp\obj\Debug\netcoreapp3.1\FirstNetCoreApp.genruntimeconfig.cache
